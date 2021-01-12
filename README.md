@@ -1,2 +1,2 @@
-# c-29-rubber-band-and-catapult
-i made catapult for my angry birds
+# p5.play-boilerplate
+Boiler plate for p5.play
